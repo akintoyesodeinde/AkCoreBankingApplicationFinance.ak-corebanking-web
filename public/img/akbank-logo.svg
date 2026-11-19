@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48" width="180" height="48">
+  <rect x="2" y="4" width="40" height="40" rx="10" fill="#0c2646"/>
+  <path d="M12 34L20 14h4l8 20h-4.2l-1.5-4h-8.6L16.2 34H12zm6.8-7.5h6.4L22 18.2l-3.2 8.3z" fill="#10b981"/>
+  <text x="50" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#0c2646">Ak Core Banking</text>
+  <text x="50" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" fill="#64748b" letter-spacing="1.2">APPLICATION</text>
+</svg>
