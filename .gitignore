@@ -1,0 +1,11 @@
+## Ak Core Banking Application - React + TypeScript Frontend .gitignore
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.local
+.env.*.local
+.vscode/
+.DS_Store
+*.log
